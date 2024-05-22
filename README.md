@@ -1,4 +1,4 @@
-# Phone-Book-System
+# Phone Book System
 
 ## Authors:
   * Ashwin Suresh
